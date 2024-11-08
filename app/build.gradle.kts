@@ -52,6 +52,7 @@ dependencies {
     implementation(libs.androidx.lifecycle.livedata.ktx)
     implementation(libs.androidx.lifecycle.compiler)
 
+    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
 
 
 }
